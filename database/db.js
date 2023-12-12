@@ -1,3 +1,6 @@
 module.exports = {
-    db: 'mongodb://localhost:27017/applicationlistdb'
+    db: 'mongodb://127.0.0.1:27017/applistdb'
+
+    //mongodb://127.0.0.1:27017/applistdb
+    //mongodb://localhost:27017/applicationlistdb
 };
